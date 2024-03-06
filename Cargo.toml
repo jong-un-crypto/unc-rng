@@ -1,13 +1,13 @@
 [package]
-name = "near-rng"
-version = "0.1.1"
+name = "unc-rng"
+version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
-description = "This is a fork of tiny-rng https://github.com/JohnBSmith/tiny-rng to work with smart contract of the NEAR protocol to minimize the binary size of the wasm"
-repository = "https://github.com/Stolkerve/near-rng"
-homepage = "https://github.com/Stolkerve/near-rng"
-documentation = "https://github.com/Stolkerve/near-rng"
-keywords = ["rng", "random_numbers", "NEAR"]
+description = "This is a fork of tiny-rng https://github.com/JohnBSmith/tiny-rng to work with smart contract of the UNC protocol to minimize the binary size of the wasm"
+repository = "https://github.com/Stolkerve/unc-rng"
+homepage = "https://github.com/Stolkerve/unc-rng"
+documentation = "https://github.com/Stolkerve/unc-rng"
+keywords = ["rng", "random_numbers", "UNC"]
 authors = ["Sebastian <devsebasgr@gmail.com>"]
 
 [dependencies]

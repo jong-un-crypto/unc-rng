@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "near-rng"
+name = "unc-rng"
 version = "0.1.1"
